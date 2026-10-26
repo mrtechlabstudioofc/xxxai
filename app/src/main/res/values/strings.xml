@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MR AI Assistant</string>
+    <string name="accessibility_service_description">Enables MR AI Assistant to navigate, scroll feeds, interact with posts, and manage chats through voice commands.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "MR AI Assistant",
+  "description": "Your Smart AI Companion with Voice Control, Smart Actions, Notification Assistant, and Floating Orb",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
